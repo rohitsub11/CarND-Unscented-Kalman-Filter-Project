@@ -3,6 +3,25 @@ Self-Driving Car Engineer Nanodegree Program
 
 ---
 
+## Summary
+
+This repo contains a C++ implementation of an Unscented Kalman Filter. It has been implemented as part of the Udacity Self-Driving Car Nanodegree Program.
+
+---
+### Evaluation
+
+#### Data file: obj_pose-laser-radar-synthetic-input.txt
+
+Accuracy - RMSE:
+
+* 0.0645957
+* 0.0602023
+* 0.557399
+* 0.589645
+
+---
+# The following section is from the original github repo.
+
 ## Dependencies
 
 * cmake >= v3.5
